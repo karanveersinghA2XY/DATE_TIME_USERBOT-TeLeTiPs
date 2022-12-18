@@ -8,7 +8,7 @@ quotes_teletips = [
 "Die with memories, not dreams.",
 "Aspire to inspire before we expire.",
 "Everything you can imagine is real.",
-"Simplicity is the ultimate sophistication.",
+"Do you have a map? I just got lost in your eyes.",
 "Whatever you do, do it well.",
 "What we think, we become.",
 "All limitations are self-imposed.",
