@@ -11,7 +11,7 @@ quotes_teletips = [
 "Do you have a map? I just got lost in your eyes.",
 "Nothing is impossible for @I_just_wannaaa.",
 "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
-"All limitations are self-imposed.",
+"Moon made us realise that being alone is beautiful🌙.",
 "Tough times never last but tough people do.",
 "Problems are not stop signs, they are guidelines.",
 "Have enough courage to start and enough heart to finish.",
