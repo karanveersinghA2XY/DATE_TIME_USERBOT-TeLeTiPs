@@ -13,7 +13,7 @@ quotes_teletips = [
 "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
 "Moon made us realise that being alone is beautiful🌙.",
 "Your time is limited, so don't waste it living someone else's life.",
-"Problems are not stop signs, they are guidelines.",
+"How are you still single?.",
 "Have enough courage to start and enough heart to finish.",
 "I could agree with you but then we’d both be wrong.",
 "Oh, the things you can find, if you don’t stay behind.",
