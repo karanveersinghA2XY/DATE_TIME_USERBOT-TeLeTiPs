@@ -12,7 +12,7 @@ quotes_teletips = [
 "Nothing is impossible for @I_just_wannaaa.",
 "Keep smiling, because life is a beautiful thing and there's so much to smile about.",
 "Moon made us realise that being alone is beautiful🌙.",
-"Tough times never last but tough people do.",
+"Your time is limited, so don't waste it living someone else's life.",
 "Problems are not stop signs, they are guidelines.",
 "Have enough courage to start and enough heart to finish.",
 "I could agree with you but then we’d both be wrong.",
