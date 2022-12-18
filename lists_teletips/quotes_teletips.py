@@ -10,7 +10,7 @@ quotes_teletips = [
 "Everything you can imagine is real.",
 "Do you have a map? I just got lost in your eyes.",
 "Nothing is impossible for @I_just_wannaaa.",
-"What we think, we become.",
+"Keep smiling, because life is a beautiful thing and there's so much to smile about.",
 "All limitations are self-imposed.",
 "Tough times never last but tough people do.",
 "Problems are not stop signs, they are guidelines.",
