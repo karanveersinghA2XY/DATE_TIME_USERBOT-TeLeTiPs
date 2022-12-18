@@ -9,7 +9,7 @@ quotes_teletips = [
 "Aspire to inspire before we expire.",
 "Everything you can imagine is real.",
 "Do you have a map? I just got lost in your eyes.",
-"Whatever you do, do it well.",
+"Nothing is impossible for @.",
 "What we think, we become.",
 "All limitations are self-imposed.",
 "Tough times never last but tough people do.",
